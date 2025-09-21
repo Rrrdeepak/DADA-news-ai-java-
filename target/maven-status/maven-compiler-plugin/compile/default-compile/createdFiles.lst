@@ -1,0 +1,6 @@
+com\example\dailynewsapp\service\NewsService.class
+com\example\dailynewsapp\controller\NewsController.class
+com\example\dailynewsapp\DailyNewsAppApplication.class
+com\example\dailynewsapp\model\Source.class
+com\example\dailynewsapp\model\NewsResponse.class
+com\example\dailynewsapp\model\NewsArticle.class
